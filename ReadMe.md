@@ -3,6 +3,7 @@
 This app tells the weather in any city in Portugal. All you have to do is input the city and it will tell you the temperature and the description of the sky in that day according to the timeanddate.com website.
 
 **Screenshot**
+
 ![screenshot](Images/image.png)
 
 ### Built With
