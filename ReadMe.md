@@ -20,7 +20,7 @@ This app tells the weather in any city in Portugal. All you have to do is input 
 ### How It Works
 You input a city in Portugal into the app and the script gets the weather from that city from the timeanddate.com website.
 
-Future Improvements
+### Future Improvements
  - Add weather for all the cities in the world
  - Improve the UI
  - Fix the bug where when you press "Get weather" a weather from a non existent city appears
